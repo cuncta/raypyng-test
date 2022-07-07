@@ -35,6 +35,7 @@ For hyperlinks, use:
 Commented lines begin with two periods and a space (like a directive w/o the double colons):
 
 .. I'm a comment!
+
 And multiline comments are also like directives w/o the colons:
 
 ..
