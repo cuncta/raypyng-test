@@ -12,7 +12,7 @@
 #
 import os
 import sys
-sys.path.insert(0,'/home/simone/Documents/raypyng_docuTest/raypyng/raypyng')
+sys.path.insert(0,'../')
 
 
 # -- Project information -----------------------------------------------------

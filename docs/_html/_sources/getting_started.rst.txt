@@ -5,7 +5,7 @@ Here is some normal text
 
 Simulate
 --------
-.. automodule:: simulate
+.. automodule:: raypyng.simulate
    :members:
 
 
